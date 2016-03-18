@@ -1,0 +1,386 @@
+[
+  {
+    "zone": "zone1",
+    "concept": "concept1.1",
+    "store": "store1.1.1",
+    "sales": 200
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.1",
+    "store": "store1.1.2",
+    "sales": 657
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.1",
+    "store": "store1.1.3",
+    "sales": 873
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.1",
+    "store": "store1.1.4",
+    "sales": 423
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.2",
+    "store": "store1.2.1",
+    "sales": 954
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.2",
+    "store": "store1.2.2",
+    "sales": 906
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.2",
+    "store": "store1.2.3",
+    "sales": 123
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.2",
+    "store": "store1.2.4",
+    "sales": 754
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.3",
+    "store": "store1.3.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.3",
+    "store": "store1.3.2",
+    "sales": 606
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.3",
+    "store": "store1.3.3",
+    "sales": 213
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.3",
+    "store": "store1.3.4",
+    "sales": 574
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.4",
+    "store": "store1.4.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.4",
+    "store": "store1.4.2",
+    "sales": 196
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.4",
+    "store": "store1.4.3",
+    "sales": 203
+  },
+  {
+    "zone": "zone1",
+    "concept": "concept1.4",
+    "store": "store1.4.4",
+    "sales": 504
+  },
+    {
+    "zone": "zone2",
+    "concept": "concept2.1",
+    "store": "store2.1.1",
+    "sales": 200
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.1",
+    "store": "store2.1.2",
+    "sales": 657
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.1",
+    "store": "store2.1.3",
+    "sales": 873
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.1",
+    "store": "store2.1.4",
+    "sales": 423
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.2",
+    "store": "store2.2.1",
+    "sales": 954
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.2",
+    "store": "store2.2.2",
+    "sales": 906
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.2",
+    "store": "store2.2.3",
+    "sales": 123
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.2",
+    "store": "store2.2.4",
+    "sales": 754
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.3",
+    "store": "store2.3.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.3",
+    "store": "store2.3.2",
+    "sales": 606
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.3",
+    "store": "store2.3.3",
+    "sales": 213
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.3",
+    "store": "store2.3.4",
+    "sales": 574
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.4",
+    "store": "store2.4.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.4",
+    "store": "store2.4.2",
+    "sales": 196
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.4",
+    "store": "store2.4.3",
+    "sales": 203
+  },
+  {
+    "zone": "zone2",
+    "concept": "concept2.4",
+    "store": "store2.4.4",
+    "sales": 504
+  },
+    {
+    "zone": "zone3",
+    "concept": "concept3.1",
+    "store": "store3.1.1",
+    "sales": 200
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.1",
+    "store": "store3.1.2",
+    "sales": 657
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.1",
+    "store": "store3.1.3",
+    "sales": 873
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.1",
+    "store": "store3.1.4",
+    "sales": 423
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.2",
+    "store": "store3.2.1",
+    "sales": 954
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.2",
+    "store": "store3.2.2",
+    "sales": 906
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.2",
+    "store": "store3.2.3",
+    "sales": 123
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.2",
+    "store": "store3.2.4",
+    "sales": 754
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.3",
+    "store": "store3.3.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.3",
+    "store": "store3.3.2",
+    "sales": 606
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.3",
+    "store": "store3.3.3",
+    "sales": 213
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.3",
+    "store": "store3.3.4",
+    "sales": 574
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.4",
+    "store": "store3.4.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.4",
+    "store": "store3.4.2",
+    "sales": 196
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.4",
+    "store": "store3.4.3",
+    "sales": 203
+  },
+  {
+    "zone": "zone3",
+    "concept": "concept3.4",
+    "store": "store3.4.4",
+    "sales": 504
+  },
+    {
+    "zone": "zone4",
+    "concept": "concept4.1",
+    "store": "store4.1.1",
+    "sales": 200
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.1",
+    "store": "store4.1.2",
+    "sales": 657
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.1",
+    "store": "store4.1.3",
+    "sales": 873
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.1",
+    "store": "store4.1.4",
+    "sales": 423
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.2",
+    "store": "store4.2.1",
+    "sales": 954
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.2",
+    "store": "store4.2.2",
+    "sales": 906
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.2",
+    "store": "store4.2.3",
+    "sales": 123
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.2",
+    "store": "store4.2.4",
+    "sales": 754
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.3",
+    "store": "store4.3.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.3",
+    "store": "store4.3.2",
+    "sales": 606
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.3",
+    "store": "store4.3.3",
+    "sales": 213
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.3",
+    "store": "store4.3.4",
+    "sales": 574
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.4",
+    "store": "store4.4.1",
+    "sales": 594
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.4",
+    "store": "store4.4.2",
+    "sales": 196
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.4",
+    "store": "store4.4.3",
+    "sales": 203
+  },
+  {
+    "zone": "zone4",
+    "concept": "concept4.4",
+    "store": "store4.4.4",
+    "sales": 504
+  }
+]
